@@ -1,0 +1,8 @@
+name: NETHERITE
+main: space\yurisi\Netherite
+api: 3.14.0
+mcpe-protocol:
+  - 407
+  - 408
+version: 1.0.0
+author: yurisi
